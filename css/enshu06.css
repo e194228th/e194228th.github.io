@@ -1,0 +1,13 @@
+h1{
+    color:red;
+    font-family: "Impact";
+    text-align: center;
+    background-color: lightseagreen;
+}
+p{
+    font-size: 25px;
+    font-weight: bold;
+}
+body{
+    background-image: url("../images/hamster.jpg");
+}

@@ -1,0 +1,21 @@
+h1{
+  color: white;
+  text-align: center;
+  background-color: skyblue;
+}
+body{
+    background-image: url("../images/background.jpg");
+    background-attachment: fixed;
+    background-position: center;
+}
+h2{
+  color: snow;
+  text-align: center;
+  background-color: palegreen;
+}
+h3{
+  color: lightpink;
+}
+p{
+    color: darkblue;
+}
