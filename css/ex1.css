@@ -1,0 +1,22 @@
+h1{
+  color: aliceblue;
+  text-align: center;
+  background-color: mediumblue;
+}
+body{
+    background-image: url("../images/star.jpg");
+    background-attachment: fixed;
+    background-position: center;
+}
+h3{
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}
+table{
+    background-color: lightskyblue;
+}
+ol{
+    background-image: url("../images/list_image.jpg");
+    background-position: bottom;
+}
