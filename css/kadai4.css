@@ -1,0 +1,27 @@
+body{
+    background-image: url(../images/background.png);
+}
+h1.skycolor{
+    color: azure;
+    background-color: skyblue;
+    text-align: center;
+}
+h1.forestcolor{
+    color: palegreen;
+    background-color: forestgreen;
+    text-align: center;
+}
+h2.fish{
+    color:orange;
+    background-color: aqua;
+    text-align: center;
+}
+h2.dark{
+    color:gainsboro;
+    background-color: black;
+    text-align: center;
+    
+}
+p{
+    color:white;
+}
