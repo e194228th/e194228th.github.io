@@ -1,0 +1,225 @@
+body{
+    background-image: url("../images/Background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+div.wrap{
+    width:1000px;
+    margin: 0px auto;
+    font-size: 0;
+    background-color: rgb(0,0,0,0.25);
+}
+div.title{
+    width:1000px;
+    height: 50px;
+    background-color: limegreen;
+    text-align: center;
+    font-family:serif;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+div.menu{
+    width:1000px;
+    height: 55px;
+    background-color: aqua;
+    font-size: 35px;
+    font-family:serif;
+}
+div.main{
+    width:1000px;
+    height:auto;
+    font-family: serif;
+    font-size: 15px;
+    margin-top: 10px;
+    text-shadow: 1px 1px 0 #FFF;
+}
+span.contents{
+    text-align: center;
+    padding-left: 113px;
+    padding-right: 99.414px;
+    border: 3px double black;
+}
+span.game1{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOP.jpg");
+    background-size: cover;
+}
+span.game2{
+    display: inline-block;
+    text-align:center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 76px;
+    padding-bottom: 24px;
+    border: 2px solid black;
+    background-image:url("../images/TOD.jfif");
+    background-size: cover;
+}
+span.game3{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOE.jpg");
+    background-size: cover;
+}
+span.game4{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+   padding-top: 76px;
+    padding-bottom: 24px;
+    border: 2px solid black;
+    background-image:url("../images/TOD2.jpg");
+    background-size: cover;
+}
+span.game5{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOS.jpg");
+    background-size: cover;
+}
+span.game6{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOR.jpg");
+    background-size: cover;
+}
+span.game7{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 76px;
+    padding-bottom: 24px;
+    border: 2px solid black;
+    background-image:url("../images/TOL.jpg");
+    background-size: cover;
+}
+span.game8{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOA.jpg");
+    background-size: cover;
+}
+span.game9{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOI.jpeg");
+    background-size: cover;
+}
+span.game10{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOV.jpg");
+    background-size: cover;
+}
+span.game11{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOH.jpg");
+    background-size: cover;
+}
+span.game12{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOG.jpg");
+    background-size: cover;
+}
+span.game13{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOX.jpg");
+    background-size: cover;
+}
+span.game14{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOX2.jpg");
+    background-size: cover;
+}
+span.game15{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOZ.jpg");
+    background-size: cover;
+}
+span.game16{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOB.jpg");
+    background-size: cover;
+}
+span.game17{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    background-image:url("../images/TOAR.jpg");
+    background-size: cover;
+}
+span.games{
+    display: inline-block;
+    text-align: center;
+    width: 191.7px;
+    height: 100px;
+    padding-top: 100px;
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(0,0,0,0.5);
+}
